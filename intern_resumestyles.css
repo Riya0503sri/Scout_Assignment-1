@@ -1,0 +1,34 @@
+p,li,td,th{
+font-size:20px;
+}
+
+body{
+border-style:solid;
+margin:20px;
+padding:20px;
+
+}
+th,td{
+padding:1px;
+}
+.c1{
+display:inline-block;
+}
+.p{
+color:black;
+background-color:#B2BEB5;
+padding-left:10px;
+border-left:5px solid blue;
+}
+.rounded{
+border: solid ;
+border-radius: 10px;
+text-align:center;
+padding: 8px; 
+margin: 3px;
+  width: 70px;
+  height: 20px; 
+  background-color:#808080;
+color:white;  
+ display: inline-block;
+}
